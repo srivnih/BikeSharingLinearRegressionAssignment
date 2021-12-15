@@ -28,9 +28,9 @@ From the regression model we can conclude the below :-
 5. The target variable 'cnt' is more during yr (2019) , winter and in mnth-Sep
 
 ## Technologies Used
-Python 3.8.8
-Jupyter Notebook 6.3.0
-Git 2.33.1.windows.1
+- Python 3.8.8
+- Jupyter Notebook 6.3.0
+- Git 2.33.1.windows.1
 
 ## Contact
 Created by [@srivnih] - feel free to contact me!
